@@ -79,14 +79,16 @@ The system reads from two CSV files located in the `resources/` folder:
 
 ---
 
-## Project Structure (pending update for package)
-
+## Project Structure
 ```
 MotorPH/
 ├── src/
-│   └── com/mycompany/motorph/
-│       └── MotorPH.java
-└── resources/
-    ├── MotorPH_Employee Data - Employee Details.csv
-    └── MotorPH_Employee Data - Attendance Record.csv
+│   └── main/
+│       └── java/
+│           └── com/mycompany/motorph/
+│               └── MotorPH.java
+├── resources/
+│   ├── MotorPH_Employee Data - Employee Details.csv
+│   └── MotorPH_Employee Data - Attendance Record.csv
+└── pom.xml
 ```
