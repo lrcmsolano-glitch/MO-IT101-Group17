@@ -1,5 +1,17 @@
 # MotorPH Payroll System
 
+## Team Details
+
+- Franz Anthony Navarro
+- Christine Majella Solano
+- Samantha Kobe Basbas
+- Javis Bayle
+- Vanessa Gomez
+
+---
+
+## System Details
+
 A console-based Java payroll application for MotorPH employees that handles attendance tracking, salary computation, and government-mandated deductions.
 
 ---
@@ -91,4 +103,9 @@ MotorPH/
 │   ├── MotorPH_Employee Data - Employee Details.csv
 │   └── MotorPH_Employee Data - Attendance Record.csv
 └── pom.xml
+```
+
+## Project Plan Link
+```
+https://docs.google.com/spreadsheets/d/1vOjb3aMnQpg-4E31A9vvzLj2rYu3pz-uIWOCPa5ogvg/edit?gid=2134013708#gid=2134013708
 ```
