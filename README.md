@@ -79,7 +79,7 @@ The system reads from two CSV files located in the `resources/` folder:
 
 ---
 
-## Project Structure
+## Project Structure (pending update for package)
 
 ```
 MotorPH/
@@ -90,10 +90,3 @@ MotorPH/
     ├── MotorPH_Employee Data - Employee Details.csv
     └── MotorPH_Employee Data - Attendance Record.csv
 ```
-
----
-
-## Requirements
-
-- Java 17 or higher (uses switch expressions and modern `java.time` API)
-- CSV data files placed in the `resources/` directory
