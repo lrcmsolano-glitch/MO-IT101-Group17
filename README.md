@@ -93,6 +93,7 @@ The system reads from two CSV files located in the `resources/` folder:
 
 ## Project Structure
 ```
+
 MotorPH/
 ├── src/
 │   └── main/
@@ -103,9 +104,12 @@ MotorPH/
 │   ├── MotorPH_Employee Data - Employee Details.csv
 │   └── MotorPH_Employee Data - Attendance Record.csv
 └── pom.xml
+
 ```
 
 ## Project Plan Link
 ```
-https://docs.google.com/spreadsheets/d/1vOjb3aMnQpg-4E31A9vvzLj2rYu3pz-uIWOCPa5ogvg/edit?gid=2134013708#gid=2134013708
+
+[https://docs.google.com/spreadsheets/d/1vOjb3aMnQpg-4E31A9vvzLj2rYu3pz-uIWOCPa5ogvg/edit?gid=2134013708#gid=2134013708](https://docs.google.com/spreadsheets/d/1vOjb3aMnQpg-4E31A9vvzLj2rYu3pz-uIWOCPa5ogvg/edit?usp=sharing)
+
 ```
